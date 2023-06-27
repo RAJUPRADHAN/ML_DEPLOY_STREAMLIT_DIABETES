@@ -2,6 +2,7 @@
 import numpy as np
 import pickle
 import streamlit as st
+import sklearn
 
 
 # loading the saved model
